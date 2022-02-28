@@ -37,7 +37,9 @@ header h1 {
 header h1 span {
   color: #d9dcd6;
 }
+/* end style header */
 
+/* style nav */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -54,7 +56,7 @@ header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
-/* end style header */
+/* end style nav*/
 
 /* style hero */
 .hero {
@@ -86,7 +88,7 @@ header nav ul li {
 
 #services {
   margin-bottom: 20px;
-  padding: 50px;
+  padding: 60px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
@@ -99,13 +101,15 @@ header nav ul li {
 
 #services h2 {
   margin-bottom: 20px;
-  font-size: 36px;
+  font-size: 41px;
 }
 
 #services p {
   font-size: 25px;
 }
+/* main body style end */
 
+/* side bar style */
 .benefits {
   margin-right: 20px;
   padding: 20px 20px 140px 20px;
@@ -132,7 +136,9 @@ header nav ul li {
   margin: 10px auto;
   max-width: 150px;
 }
+/* side bar style end */
 
+/*footer style */
 .footer {
   padding: 30px;
   clear: both;
@@ -144,3 +150,4 @@ header nav ul li {
 .footer h2 {
   font-size: 20px;
 }
+/* footer style end */
