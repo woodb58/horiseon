@@ -86,7 +86,7 @@ header nav ul li {
   margin-left: 25px;
 }
 
-#services {
+.services {
   margin-bottom: 20px;
   padding: 60px;
   height: 300px;
@@ -95,16 +95,16 @@ header nav ul li {
   color: #ffffff;
 }
 
-#services img {
+.services img {
   max-height: 200px;
 }
 
-#services h2 {
+.services h2 {
   margin-bottom: 20px;
   font-size: 41px;
 }
 
-#services p {
+.services p {
   font-size: 25px;
 }
 /* main body style end */
