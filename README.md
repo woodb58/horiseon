@@ -10,7 +10,7 @@ I applied lessons on clean code and was able to remove several duplicate code en
 Refactoring details
 
 - when source code is viewed you now find logical symantic HTML structure
-- when image element are viewed accessible alt attributes are now present for all images
+- when image elements are viewed accessible alt attributes are now present for all images
 - when heading elements are viewed they fall in sequential order
 - added concise title element
 
